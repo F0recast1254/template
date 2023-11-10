@@ -1,0 +1,5 @@
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net7.0/StarterGame.csproj.AssemblyReference.cache
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net7.0/StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net7.0/StarterGame.AssemblyInfoInputs.cache
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net7.0/StarterGame.AssemblyInfo.cs
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net7.0/StarterGame.csproj.CoreCompileInputs.cache

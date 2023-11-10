@@ -1,0 +1,15 @@
+/home/chairs/workspace/school/OOD/ood-term-project/Template/bin/Debug/net6.0/Template
+/home/chairs/workspace/school/OOD/ood-term-project/Template/bin/Debug/net6.0/Template.deps.json
+/home/chairs/workspace/school/OOD/ood-term-project/Template/bin/Debug/net6.0/Template.runtimeconfig.json
+/home/chairs/workspace/school/OOD/ood-term-project/Template/bin/Debug/net6.0/Template.dll
+/home/chairs/workspace/school/OOD/ood-term-project/Template/bin/Debug/net6.0/Template.pdb
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.csproj.AssemblyReference.cache
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.GeneratedMSBuildEditorConfig.editorconfig
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.AssemblyInfoInputs.cache
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.AssemblyInfo.cs
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.csproj.CoreCompileInputs.cache
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.dll
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/refint/Template.dll
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.pdb
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/Template.genruntimeconfig.cache
+/home/chairs/workspace/school/OOD/ood-term-project/Template/obj/Debug/net6.0/ref/Template.dll
